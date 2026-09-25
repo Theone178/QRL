@@ -1,7 +1,7 @@
 # Quantum Reinforcement Learning: "The Wall Drop"
 
 ## Overview
-This project extends Dong et al.'s Quantum Reinforcement Learning (QRL) framework by introducing "The Wall Drop"—a dynamic 5x5 gridworld environment that shifts mid-training. The primary objective is to evaluate the agent's resistance to catastrophic forgetting when the optimal path suddenly changes. 
+This project extends Dong et al.'s Quantum Reinforcement Learning (QRL) framework by introducing "The Wall Drop"-a dynamic 5x5 gridworld environment that shifts mid-training. The primary objective is to evaluate the agent's resistance to catastrophic forgetting when the optimal path suddenly changes. 
 
 ## Tech Stack
 * **Language:** Python
